@@ -1,4 +1,4 @@
-# IronKV: A Verified Mini LSM-Tree Key-Value Store in Rust
+# A Verified Mini LSM-Tree Key-Value Store in Rust
 
 **Team:** Ironlog
 **Members:** Yashna Karkera, Shushank RajPrakash,Dhanush Hanumantharayappa(
