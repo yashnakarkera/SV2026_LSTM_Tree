@@ -1,7 +1,7 @@
 # IronKV: A Verified Mini LSM-Tree Key-Value Store in Rust
 
 **Team:** Ironlog
-**Members:** _Name 1_, _Name 2_, _Name 3_
+**Members:** Yashna Karkera, Shushank RajPrakash,Dhanush Hanumantharayappa(
 **Course:** Software Verification Systems, RPTU Kaiserslautern-Landau (Project-Based Learning)
 
 ---
@@ -120,6 +120,3 @@ cargo test
 verus src/lib.rs
 ```
 
-## License
-
-MIT (to be confirmed)
