@@ -7,8 +7,7 @@
 ---
 
 ## Overview
-
-IronKV is a small embedded key-value store built on a log-structured merge (LSM) tree, written in Rust and **formally verified** for functional correctness, crash consistency, and durability. The goal is not to compete with RocksDB, but to show that the core ideas behind modern storage engines can be specified and proved correct, and to measure what that costs in performance.
+This is a small embedded key-value store built on a log-structured merge (LSM) tree, written in Rust and **formally verified** for functional correctness, crash consistency, and durability. The goal is not to compete with RocksDB, but to show that the core ideas behind modern storage engines can be specified and proved correct, and to measure what that costs in performance.
 
 ## Motivation
 
